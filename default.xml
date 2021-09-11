@@ -8,5 +8,6 @@
 
 	<project remote="yocto" revision="dunfell" name="poky" path="poky"/>
 	<project remote="yocto" revision="dunfell" name="meta-gplv2" path="meta-gplv2"/>
+	<project remote="oe" revision="dunfell" name="meta-openembedded" path="meta-openembedded"/>
 
 </manifest>
