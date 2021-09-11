@@ -1,2 +1,2 @@
-# rz-bsp-manifest
- RENESAS RZ Series Repo manifest repository
+# rz-bsp-manifest[Experimental]
+ RENESAS RZ Series BSP repositories
