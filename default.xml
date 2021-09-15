@@ -12,7 +12,7 @@
 	
 	<project remote="oe" revision="dunfell" name="meta-openembedded" path="meta-openembedded"/>
 
-	<project remote="github" revision="dunfell" name="meta-qt5/meta-qt5" path="meta-qt5"/>
+	<project remote="github" revision="c1b0c9f546289b1592d7a895640de103723a0305" name="meta-qt5/meta-qt5" path="meta-qt5"/>
 
 	<project remote="github" revision="dunfell/rzg2l" name="renesas-rz/meta-rzg2" path="meta-rzg2"/>
 	<project remote="github" revision="master" name="renesas-rz/rzg2_bsp_scripts" path="rzg2_bsp_scripts"/>
