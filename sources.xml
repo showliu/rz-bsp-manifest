@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+	<remote fetch="https://github.com" name="github"/>
+	<remote fetch="git://git.openembedded.org" name="oe"/>
+	<remote fetch="http://git.linaro.org" name="linaro"/>
+
+	<project remote="github" revision="rz_g2l" name="renesas-rz/rzg2_flash_writer" path="rzg2_flash_writer"/>
+
+	<project remote="github" revision="v2.9/rz" name="renesas-rz/rzg_trusted-firmware-a" path="rzg_trusted-firmware-a"/>
+	
+	<project remote="github" revision="mbedtls-2.16.3" name="ARMmbed/mbedtls.git" path="mbedtls"/>
+
+	<project remote="github" revision="v2021.10/rz" name="renesas-rz/renesas-u-boot-cip" path="renesas-u-boot-cip"/>
+
+	<project remote="github" revision="rz-5.10-cip36" name="renesas-rz/rz_linux-cip" path="rz_linux-cip"/>
+
+</manifest>
